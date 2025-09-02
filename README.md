@@ -1,5 +1,5 @@
 ## Hi there, I'm Augusto! 👋
-I'm a geospatial data scientist passionate about ecological modelling from Galicia, Spain 🌊🌳:
+I'm a geospatial data scientist passionate about ecological modelling from Galicia, Spain 🌊🌳
 
 ### About me
 
@@ -19,7 +19,7 @@ I'm a geospatial data scientist passionate about ecological modelling from Galic
 
 ### GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/ASalonio">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ASalonio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
 </a>
