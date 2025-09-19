@@ -5,7 +5,7 @@ I'm a geospatial data scientist passionate about ecological modelling from Galic
 
 - Learning: Wildfire risk modelling 🔥
 - Languages: R, Python, and MySQL 👨‍💻
-- Hobbies: Reading History 📚, Running 🏃, and Trekking 🌄
+- Hobbies: Reading History 📚, Running 🏃, and Hiking 🌄
 - Fact: First solve the problem, then write the code.
 
 ### Language and Tools
