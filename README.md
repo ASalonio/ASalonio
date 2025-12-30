@@ -15,6 +15,7 @@ I'm a geospatial data scientist passionate about ecological modelling from Galic
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Kaggle](https://img.shields.io/badge/-Kaggle-05122A?style=flat&logo=kaggle)&nbsp;
 ![QGIS](https://img.shields.io/badge/-QGIS-05122A?style=flat&logo=qgis)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
 ### GitHub Analytics
