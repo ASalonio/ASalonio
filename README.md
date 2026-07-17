@@ -1,5 +1,5 @@
 ## Hi there, I'm Augusto! 👋
-I'm a geospatial data scientist passionate about ecological modelling from Galicia, Spain 🌊🌳
+I'm a geospatial data scientist passionate about ecological modelling from Madrid, Spain 🌊🌳
 
 ### About me
 
